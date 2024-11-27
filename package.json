@@ -1,0 +1,17 @@
+{
+  "name": "vector-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@qdrant/js-client-rest": "^1.12.0",
+    "openai": "^4.72.0",
+    "uuid": "^11.0.3"
+  }
+}
